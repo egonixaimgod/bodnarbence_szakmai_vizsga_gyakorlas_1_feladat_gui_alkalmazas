@@ -1,0 +1,4 @@
+1. Netbeans projekt letrehozas java with ant, tobbi alap
+2. jobb click a packagera baloldalt (aminek az a neve ami a projectednek) -> new -> jFrameForm, utana nevezd el
+3. utana osszerakod a guit
+4. utana nem fog elindulni hiaba nyomod a gombot, ezért jobb click a kaves csesze ikonra jobb oldalt -> properties -> run -> Main Class: -> browse -> es tallozd ki a jFrame classt
